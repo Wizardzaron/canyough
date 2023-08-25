@@ -5,8 +5,6 @@ Can you GH?
 
 * Make it a BRANCH from a FORK in your account.
 
-* Yes ...
+* Yes, cjmendez can create a PR
 
-I can properly submit a PR
-
-Hello, this is proof that I can properly submit a PR:))))
+* What do you call a fake noodle? an imPASTA
