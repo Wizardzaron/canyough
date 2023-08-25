@@ -5,7 +5,7 @@ Can you GH?
 
 * Make it a BRANCH from a FORK in your account.
 
-* Yes ... hello jesus has added to readme
+* Yes ... hello jesus has added to readme for 490
 
 I can properly submit a PR
 
